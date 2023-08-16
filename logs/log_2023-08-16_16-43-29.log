@@ -1,0 +1,110 @@
+
+-----
+Test: test_autorization.py::test_autorization (call)
+Start time: 2023-08-16 16:43:30.465666
+Start name method: autorization
+
+End time: 2023-08-16 16:43:48.512926
+End name method: autorization
+URL: https://posuda-shop.ru/personal/
+
+-----
+
+-----
+Test: test_buy_product.py::test_buy_product (call)
+Start time: 2023-08-16 16:43:52.541770
+Start name method: autorization
+
+End time: 2023-08-16 16:44:10.233383
+End name method: autorization
+URL: https://posuda-shop.ru/personal/
+
+-----
+
+-----
+Test: test_buy_product.py::test_buy_product (call)
+Start time: 2023-08-16 16:44:17.247865
+Start name method: sorting_posuda
+
+End time: 2023-08-16 16:44:30.552245
+End name method: sorting_posuda
+URL: https://posuda-shop.ru/catalog/posuda_iz_melamina/filter/series-is-african%20wood%202-or-green%20banana%20leaf/apply/
+
+-----
+
+-----
+Test: test_buy_product.py::test_buy_product (call)
+Start time: 2023-08-16 16:44:30.553246
+Start name method: buy_posuda
+
+End time: 2023-08-16 16:44:50.804174
+End name method: buy_posuda
+URL: https://posuda-shop.ru/basket/
+
+-----
+
+-----
+Test: test_choice_product.py::test_choice_product (call)
+Start time: 2023-08-16 16:44:53.868094
+Start name method: autorization
+
+End time: 2023-08-16 16:45:11.843904
+End name method: autorization
+URL: https://posuda-shop.ru/personal/
+
+-----
+
+-----
+Test: test_choice_product.py::test_choice_product (call)
+Start time: 2023-08-16 16:45:18.853705
+Start name method: sorting_posuda
+
+End time: 2023-08-16 16:45:33.209803
+End name method: sorting_posuda
+URL: https://posuda-shop.ru/catalog/posuda_iz_melamina/filter/series-is-african%20wood%202-or-green%20banana%20leaf/apply/
+
+-----
+
+-----
+Test: test_order_product.py::test_order_product (call)
+Start time: 2023-08-16 16:45:36.251715
+Start name method: autorization
+
+End time: 2023-08-16 16:45:54.276103
+End name method: autorization
+URL: https://posuda-shop.ru/personal/
+
+-----
+
+-----
+Test: test_order_product.py::test_order_product (call)
+Start time: 2023-08-16 16:46:01.290104
+Start name method: sorting_posuda
+
+End time: 2023-08-16 16:46:14.654464
+End name method: sorting_posuda
+URL: https://posuda-shop.ru/catalog/posuda_iz_melamina/filter/series-is-african%20wood%202-or-green%20banana%20leaf/apply/
+
+-----
+
+-----
+Test: test_order_product.py::test_order_product (call)
+Start time: 2023-08-16 16:46:14.654464
+Start name method: buy_posuda
+
+End time: 2023-08-16 16:46:34.297150
+End name method: buy_posuda
+URL: https://posuda-shop.ru/basket/
+
+-----
+
+-----
+Test: test_order_product.py::test_order_product (call)
+Start time: 2023-08-16 16:46:34.298157
+Start name method: order_posuda
+
+End time: 2023-08-16 16:46:55.082231
+End name method: order_posuda
+URL: https://posuda-shop.ru/order/
+
+-----
